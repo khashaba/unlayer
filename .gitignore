@@ -6,9 +6,7 @@ node_modules
 /cypress/screenshots
 
 # Ignore Cypress generated files
-/cypress/fixtures
 /cypress/results
-/cypress/support
 /cypress/report
 /cypress/browser
 
