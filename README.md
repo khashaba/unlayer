@@ -57,3 +57,9 @@ The test suite utilizes the following dependencies to enhance test readability a
 
 - **cypress-iframe**: Allows interacting with elements within iframes.
 - **cypress-real-events**: Provides support for real mouse events in Cypress tests.
+
+
+
+## CI/CD Pipeline
+
+This project includes a CI/CD pipeline to automate testing and deployment processes. The pipeline is configured to run tests on every pull request made to the `main` branch. The pipeline named "run test" is utilized for this purpose. you can find the configuration for it in this file: .gihub/workflows/test.yml
