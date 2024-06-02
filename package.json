@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "cypress": "^13.10.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-real-events": "^1.12.0"
+  }
+}

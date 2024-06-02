@@ -1,0 +1,16 @@
+# Ignore node_modules directory
+node_modules
+
+# Ignore Cypress video and screenshot files
+/cypress/videos
+/cypress/screenshots
+
+# Ignore Cypress generated files
+/cypress/fixtures
+/cypress/results
+/cypress/support
+/cypress/report
+/cypress/browser
+
+# Ignore any local environment files (if applicable)
+.env
